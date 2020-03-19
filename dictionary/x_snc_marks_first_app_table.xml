@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Marks First App Table" max_length="40" name="x_snc_marks_first_app_table" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="one" max_length="40" name="one" type="integer"/>
+        <element label="String 1" max_length="40" name="string_1" type="string"/>
+        <element label="String 2" max_length="40" name="string_2" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+    </element>
+</database>

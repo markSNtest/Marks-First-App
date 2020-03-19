@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_snc_marks_first_mark" label="mark 2" max_length="40" name="x_snc_marks_first_mark_2" type="collection"/>
+</database>
